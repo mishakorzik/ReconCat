@@ -45,7 +45,7 @@
 ```
 Wifi   : True
 Root   : No Root
-Storage: 11 MB
+Storage: 4.00 KB
 Package: 154 MB
 ```
 
