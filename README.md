@@ -25,9 +25,9 @@
 
 ### Installing
 
-* `pkg update`
-* `pkg upgrade`
-* `pkg install git`
+* `apt update`
+* `apt upgrade`
+* `apt install git`
 * `apt install python3-pip`
 * `git clone https://github.com/mishakorzik/ReconCat`
 * `pip3 install requests`
